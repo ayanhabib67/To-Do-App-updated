@@ -1,0 +1,30 @@
+body{
+    padding: 0px;
+    margin-top: 0px;
+    background-color:#859398
+}
+.heading{
+    padding-top: 100px;
+display: flex;
+justify-content: center;
+color: black;
+font-size: x-large
+}
+.input{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+.ul{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
