@@ -29,13 +29,13 @@ input.value =""
 
 
 function deleteTodo(index) {
-      console.log("delete todo", index);
+      
     arr.splice(index, 1);
     enterTodo();
 
   }
 function editTodo(index){
-  console.log("edit todo", index);
+ 
 
   let updatedVal = prompt("enter updated value");
 
